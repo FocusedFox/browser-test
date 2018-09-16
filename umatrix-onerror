@@ -1,0 +1,2 @@
+<script>function evil(){alert('evil')}</script>
+<img src="404.png" onerror="evil()">
